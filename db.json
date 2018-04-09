@@ -156,23 +156,15 @@
                             {
                               "item": "Log in to computer",
                               "description": [
-                                "Make sure that previous shift team member has logged out of the front desk computer workstation. If a user is logged in, click START and then LOGOUT",
-                                "Click on 'Login with a different user' on the main screen",
-                                "Enter your workstation Username and Password, then click LOGIN or simply press ENTER on the keyboard.",
-                                "After the shift, always ensure to log out of your workstation account by clicking on START and Logout"
+                                "Make sure that previous shift team member has logged out of the front desk computer workstation. If a user is logged in, click START and then LOGOUT"
                               ]
                             },
                             {
                               "item": "Concierge service",
                               "description": [
                                 "On your workstation, open Chrome browswer.",
-                                "From the Favorites tab, select 'Go-Concierge'. If you don't see 'Go-Concierge' on the list, then in the address bar type 'http://www.goconcierge.net'",
-                                "When prompted, enter your username and password to login to your Go-Concierge account.",
-                                "Click on 'Pending Concierge Items' and print the list",
-                                "For Restaurant reservation requests, click on the Resaturant tab and follow instructions to make the reservation at requested restaurant. Ask front office manager for assistance if unable to confirm booking",
-                                "For Car service, click on the Tranportation tab and follow instructions to make the reservation with Coastal Limousine who are our preferred transportation provider. Ask front office manager for assistance if unable to confirm booking",
-                                "For Massage booking, click on the Massage tab and follow instructions to book requested service. Ask front office manager for assistance if unable to confirm booking.",
-                                "Any Concierge service requests can be processed from Go-Cocierge web portal. If unsure, ask front office manager for assistance."
+                                
+                                "Click on 'Pending Concierge Items' and print the list"
                               ]
                             },
                             {
