@@ -1,4 +1,5 @@
 {
+  
               "company": [
                   {
                     "name": "Katenna Hotel Miami",
@@ -10,18 +11,38 @@
                           },
                     "phone": "305-555-5050",
                     "url": "http://www.katennahotelmiami.com",
-                    "location": "in the heart of South Beach",
+                    "location": "in the heart of South Beach on Ocean Drive, between 12th and 13th streets",
                     "rooms": 140,
                     "built": 1916,
                     "architect": "James Scarlett",
                     "features": [
-"Fitness Center (open 24 hours)"
-],
+                            "Guaranteed direct ocean views from all rooms and suites",
+                            "Large, spacious rooms averaging 550 sq ft or more in size",
+                            "Complimentary WiFi in all guest rooms and public spaces",
+                            "The Katenna Restaurant, featuring all day indoor/outdoor dining",
+                            "Outdoor heated pool exclusively for hotel guests",
+                            "Fitness Center (open 24 hours)"
+                            ],
                     "services": [
+                            "Complimentary beach set-up of two beach chairs, one umbrella and two towels",
+                            "Complimentary 'Katenna Sunrise' welcome cocktail upon arrival",
+                            "Valet parking ($35 per night)",
                             "24-hour concierge service",
-],
+                            "Same day laundering and dry cleaning services",
+                            "Pressing and steaming services",
+                            "Shoe shine services",
+                            "Well-stocked lending library featuring award-winning DVDs and Blu-rays"
+                            ],
                     "amenities": [
-                            "spa treatments"
+                            "In-room dining serving breakfast, lunch and dinner",
+                            "Nespresso coffee & tea machines",
+                            "Fully stocked honor bar",
+                            "In-room safe",
+                            "Flat-screen televisions with DVD players",
+                            "iPod docking stations in all rooms and suites",
+                            "Large walk -in closets",
+                            "Iron and ironing board available upon request",
+                            "In - room spa treatments"
                             ],
                     "dining": [
                           {
@@ -135,14 +156,19 @@
                             {
                               "item": "Receive handover from previous shift",
                               "description": [
-                                "Ask previous shift team member regarding any pending items that need to be followed upon." 
- ]
+                                "Ask previous shift team member regarding any pending items that need to be followed upon.",
+                                "Ask previous shift team member regarding any guest parking discrepancies. Call Key Parking manager at ext. 147 to discuss and resolve. Communicate the resolution to all team members.",
+                                "Ask previous shift team member regarding any arrival cancellations. In case of late cancellation, charge one night's room and tax amount using the method of payment on reservation.",
+                                "Ask previous shift team member regarding any early arrivals. If there is a guest waiting to check in, try to accomodate their early check-in. If a clean room is not available, communicate to manager on duty to handle."
+                              ]
                             },
                             {
                               "item": "Perform wake-up calls",
                               "description": [
                                 "Obtain wake-up call list from front desk pass-on folder.",
-                                "Dial 7"
+                                "Dial 7 + guest room number at the exact time the wake-up call was requested.",
+                                "Greet the guest using their last name. Example: Good morning/afternoon Mr. 'Guest last name', this is your wake-up call.",
+                                "Ask the guest if they need another follow-up call or any other assistance"
                               ]
                             },
                             {
