@@ -36,10 +36,6 @@
                                   "lunch": {
                                     "open": 11,
                                     "close": 16
-                                  },
-                                  "dinner": {
-                                    "open": 16,
-                                    "close": 23
                                   }
                                 }
                               }
@@ -90,40 +86,8 @@
                   "position": "Accountant",
                   "type": "employee",
                   "deptId": 3
-                  },
-                  {
-                  "id": 1017180003,  
-                  "firstName": "Teddy",
-                  "lastName" : "Lazarus",
-                  "name": "Teddy Lazarus",
-                  "email": "1017180003@ymail.com",
-                  "phone": "305-555-0052",
-                  "position": "Manager",
-                  "type": "administrator",
-                  "deptId": 5
-                  },
-                  {
-                  "id": 1017180004,
-                  "firstName": "Cooper",
-                  "lastName": "Coltrane",
-                  "name": "Cooper Coltrane",
-                  "email": "1017180004@gmail.com",
-                  "phone": "305-555-0058",
-                  "position": "Housekeeping",
-                  "type": "employee",
-                  "deptId": 2
-                  },
-                  {
-                  "id": 1017180005,
-                  "firstName": "Ryan",
-                  "lastName": "Norfolk",
-                  "name": "Ryan Norfolk",
-                  "email": "1017180005@hotmail.com",
-                  "phone": "954-555-0052",
-                  "position": "Bellman",
-                  "type": "employee",
-                  "deptId": 4
-                   }               
+                  }
+ 
               ],
 
             "departments": [
