@@ -1,0 +1,98 @@
+#AddTaskFormContainer {
+	background-color: white;
+	padding: 0;
+}
+
+#addFormTitle {
+	font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1px;
+    padding: 40px;
+	margin: 0;
+	background-color: #f6c600;
+	color: white;
+}
+
+#addFormSpace {
+    padding: 40px;
+}
+
+#addFieldDiv {
+    padding: 0;
+    position: relative;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+#addFieldDiv > input {
+	border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da;
+    position: absolute;
+    bottom: 0;
+	background-color: rgba(255, 255, 255, 0);
+	transition: all .3s;
+}
+
+#addFieldDiv > input:focus {
+	color: #495057;
+    outline: 0;
+	box-shadow: none;
+	border-bottom: 1px solid #3a88be;
+	box-shadow: 0 1px 0 0  #495057;
+}
+
+#addFieldDiv > input[type="text"] + .labelInput {
+    color: rgb(38, 38, 38, 0.5);
+    font-size: 16px;
+    position: absolute;
+    margin-bottom: 0;
+	pointer-events: none;
+	transition: .2s ease-out;
+}
+
+#addFieldDiv > input[type="text"]:focus + .labelInput {
+	color: #3a88be;
+    position: absolute;
+	top: 0px;
+	font-size: 14px;
+}
+.addNewDescriptionDiv{
+    margin-top: 40px;
+}
+#addNewDescriptionBtn {
+    max-height: 40px;
+	max-width: 40px;
+    margin-right: 10px; 
+    cursor: pointer;
+}
+
+#addNewDescriptionText{
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #262626;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#addTaskSubmitBtn {
+	margin-top: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+    border-radius: 0;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 50px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-bottom: 20px;
+}

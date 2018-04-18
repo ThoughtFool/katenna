@@ -1,0 +1,11 @@
+#mainDashContainer {
+    background-color: rgba(240, 240, 240, 1);
+    color: #262626;
+    min-height: -webkit-fill-available;
+    font-family: 'Open Sans', sans-serif;
+    padding: 50px;
+	margin: 0;
+	position: absolute;
+    top: 70px;
+	right: 0;
+}
