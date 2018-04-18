@@ -1,7 +1,6 @@
 # Login and Authentication for katenna app
 This application incorporates the following packages:
 
-- axios
 - bcryptjs
 - jsonwebtoken
 - mongoose
@@ -9,3 +8,10 @@ This application incorporates the following packages:
 - react-router-dom
 - validator
 
+-----------------------------------
+contributors:
+* https://github.com/mariela2p
+* https://github.com/m-wolowicz
+* https://github.com/boyrajat
+* https://github.com/buddyeorl
+* https://github.com/ThoughtFool
